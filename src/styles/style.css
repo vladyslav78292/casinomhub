@@ -245,7 +245,7 @@ header > div:first-of-type > div {
 }
 
 header > div:first-of-type {
-  background-color: black;
+  background-color: #12131C;
 }
 
 .buttons {
@@ -372,7 +372,7 @@ p, h1, h2, h3, li, span, tr, td {
 }
 
 footer {
-  background-color: black;
+  background-color: #12131C;
   padding: 20px 35px;
 }
 
@@ -410,7 +410,7 @@ footer > p {
 }
 
 .logo {
-  width: 140px;
+  width: 200px;
 }
 
 .homepage_container {
@@ -429,10 +429,6 @@ footer > p {
   width: 50%;
 }
 
-.sikayette, .transferleri, .center_image, .mobile, .destek, .license, .kayit, .homepage {
-  border: 2px solid #F7CC30;
-}
-
 .mobile_container {
   justify-content: flex-start;
 }
@@ -441,8 +437,8 @@ footer > p {
   max-width: 90%;
 }
 
-.giris-image {
-  width: 30%;
+.giris, .registration {
+  width: 250px;
 }
 
 @media (max-width: 1200px) {
